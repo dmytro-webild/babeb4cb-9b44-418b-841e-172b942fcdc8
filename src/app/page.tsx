@@ -109,8 +109,8 @@ export default function LandingPage() {
         },
       ]}
       avatarText="Rated By Hundreds Of Happy Customers"
-      imageSrc="http://img.b2bpic.net/free-photo/side-view-traditional-asian-dumplings-with-meat-vegetables-served-with-soy-sauce-plate-rustic_141793-11564.jpg"
-      videoSrc="http://img.b2bpic.net/free-photo/high-angle-women-learning-make-sushi_23-2151202905.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/side-view-traditional-asian-dumplings-with-meat-vegetables-served-with-soy-sauce-plate-rustic_141793-11564.jpg?_wi=1"
+      videoSrc="http://img.b2bpic.net/free-photo/high-angle-women-learning-make-sushi_23-2151202905.jpg?_wi=1"
       imageAlt="Steaming momos and happy customers"
       showDimOverlay={true}
       showBlur={true}
@@ -222,7 +222,7 @@ export default function LandingPage() {
           descriptions: [
             "The famous spicy sauce that customers keep talking about.",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-women-learning-make-sushi_23-2151202905.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-women-learning-make-sushi_23-2151202905.jpg?_wi=2",
           imageAlt: "instagram logo icon social media",
         },
         {
@@ -231,7 +231,7 @@ export default function LandingPage() {
           descriptions: [
             "Enjoy your food in a relaxed rooftop setting.",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-traditional-asian-dumplings-with-meat-vegetables-served-with-soy-sauce-plate-rustic_141793-11564.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-traditional-asian-dumplings-with-meat-vegetables-served-with-soy-sauce-plate-rustic_141793-11564.jpg?_wi=2",
           imageAlt: "instagram logo icon social media",
         },
         {
